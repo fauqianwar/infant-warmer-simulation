@@ -1,6 +1,4 @@
 # Infant Warmer Simulation 
-
-##Project Overview
 This project was developed as part of Semester 2 coursework in Electromedical Engineering.  
 The Infant Warmer system is designed to simulate neonatal care support by maintaining optimal temperature and monitoring vital signs.
 
